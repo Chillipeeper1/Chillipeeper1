@@ -1,8 +1,10 @@
 ## Hello, world
+Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passionate about Machine Learning, software, and code.
 
 <img align="right" src="maga.svg" alt="Ilustración" width="350px">
 
-Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passionate about Machine Learning, software, and code.
+hello
+
 
 
 <!--
