@@ -1,6 +1,9 @@
 ## Hello, world 
 
-Welcome to my island, I'm Zabdiel a Systems Computer Engineering student; pasionate about Machine Learning, software and code. 
+Welcome to my island, I'm Zabdiel a Systems Computer Engineering student; pasionate about Machine Learning, software and code.
+<div align="center">
+  <img src="maga.svg" alt="Ilustración" width="100%">
+</div>
 
 <!--
 **Chillipeeper1/Chillipeeper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
