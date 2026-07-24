@@ -1,6 +1,6 @@
 ## Hello, world 
 <div align="right">
-  <img src="maga.svg" alt="Ilustración" width="250px">
+  <img src="maga.svg" alt="Ilustración" width="350px">
 </div>
 Welcome to my island, I'm Zabdiel a Systems Computer Engineering student; pasionate about Machine Learning, software and code.
 
