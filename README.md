@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, world 
+
+Welcome to my island, I'm Zabdiel a Systems Computer Engineering student; pasionate about Machine Learning, software and code. 
 
 <!--
 **Chillipeeper1/Chillipeeper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
