@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 173.15 206.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ede0fb;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_227);
+      }
+
+      .cls-4 {
+        fill: #ffac33;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_119);
+      }
+
+      .cls-6 {
+        fill: #3d4ec4;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_303);
+      }
+
+      .cls-9 {
+        fill: #c9c9c9;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_119" data-name="Degradado sin nombre 119" x1="91.15" y1="65.93" x2="92.29" y2="230.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9ea7d"/>
+      <stop offset=".26" stop-color="#e99f7d"/>
+      <stop offset=".52" stop-color="#e95b7d"/>
+      <stop offset=".74" stop-color="#e9297d"/>
+      <stop offset=".91" stop-color="#e90b7d"/>
+      <stop offset="1" stop-color="#e9007d"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_303" data-name="Degradado sin nombre 303" x1="61.23" y1="95.78" x2="132.13" y2="189.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d4ec4"/>
+      <stop offset="1" stop-color="#1cb3f5"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_227" data-name="Degradado sin nombre 227" x1="-24.97" y1="64.16" x2="93.07" y2="64.16" gradientTransform="translate(79.74 -37.76) rotate(149.97) scale(.85 -1.11)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d4ec4"/>
+      <stop offset="0" stop-color="#3a58c9"/>
+      <stop offset="1" stop-color="#1cb3f5"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-5" points="35.87 61 10.34 156.28 141.48 184.97 151.97 154.1 173.15 147.74 124.13 63.32 35.87 61"/>
+  <path class="cls-8" d="m38.57,94.97l84.36-3.39c2.77-.11,5.27,1.65,6.1,4.3l14.08,44.84c1.07,3.42-1,7.02-4.49,7.82l-20.56,4.71c-.69.16-1.4.2-2.1.11l-84.62-10.11c-3.79-.45-6.25-4.22-5.15-7.87l11.82-39.19"/>
+  <circle class="cls-2" cx="81.39" cy="63.93" r="36.5"/>
+  <path class="cls-6" d="m10.35,61.05c.42,9.78,28.86,16.53,36.8,18.42,14.99,3.57,27.15,3.33,32.44,3.11,30.66-1.29,76.71-12.47,76.59-25.26-.12-12.62-42.73-25.8-80.38-23.14-30.34,2.15-65.96,15.19-65.46,26.87Z"/>
+  <path class="cls-3" d="m46.89,64.09C36.76,45.38,66.68-4.29,103.59.3c16.8,2.09,34.65,15.38,35,22.56.38,7.71-19.54,5.02-24.58,21.63-2.12,7,.6,10.5-.94,15.9-6.01,21.07-56.8,21.01-66.18,3.7Z"/>
+  <ellipse class="cls-7" cx="64.79" cy="91.4" rx="2.45" ry="3.24" transform="translate(-45.67 110.12) rotate(-64.29)"/>
+  <ellipse class="cls-7" cx="98.03" cy="91.4" rx="3.24" ry="2.45" transform="translate(-29.94 51.57) rotate(-25.71)"/>
+  <ellipse class="cls-2" cx="56.34" cy="166.13" rx="11.57" ry="57.7" transform="translate(-118.12 184.44) rotate(-77.26)"/>
+  <ellipse class="cls-2" cx="98.03" cy="174.92" rx="57.7" ry="11.57" transform="translate(-42.4 31.79) rotate(-15.19)"/>
+  <ellipse class="cls-2" cx="32.9" cy="198.06" rx="10.21" ry="7.15" transform="translate(-130.41 81.28) rotate(-45)"/>
+  <ellipse class="cls-2" cx="124.29" cy="193.23" rx="7.15" ry="10.21" transform="translate(-105.36 186.37) rotate(-55.54)"/>
+  <path class="cls-1" d="m28.05,163.52l91.39,2.3-3.17-40.91c-.51-6.64-6.09-11.73-12.75-11.64l-74.44.99c-5.15.07-9.01,4.75-8.1,9.82l7.08,39.44Z"/>
+  <circle class="cls-9" cx="66.61" cy="140.79" r="6.59"/>
+  <path class="cls-4" d="m158.2,32.82c-.16.04-.33.04-.49-.02l-3.81-1.42-2.57,3.15c-.22.27-.58.37-.91.24-.32-.12-.53-.44-.52-.78l.15-4.16-3.76-1.37c-.32-.13-.53-.44-.51-.79.02-.34.25-.64.59-.73l3.91-1.07.23-4.08c.03-.44.4-.78.85-.76.25.01.48.15.62.36l2.24,3.41,3.93-1.06c.43-.11.87.14.98.57.07.24.01.51-.15.7l-2.55,3.08,2.23,3.51c.19.29.17.67-.05.94-.11.13-.25.23-.41.27h0Z"/>
+</svg>
