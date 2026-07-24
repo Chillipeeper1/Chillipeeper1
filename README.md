@@ -1,7 +1,7 @@
 ## Hello, world 
 
 Welcome to my island, I'm Zabdiel a Systems Computer Engineering student; pasionate about Machine Learning, software and code.
-<div align="center">
+<div align="right">
   <img src="maga.svg" alt="Ilustración" width="150px">
 </div>
 
