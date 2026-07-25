@@ -31,6 +31,9 @@ Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passi
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### Open source projects:  
+- [TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml): ML-powered technical debt detector for Python codebases. Built for vibe-coders who ship fast and want to know what they're leaving behind. Predicts per-file risk using code complexity + git activity (VERY early stage)
+
 <!--
 **Chillipeeper1/Chillipeeper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
