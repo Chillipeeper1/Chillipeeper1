@@ -9,9 +9,6 @@ Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passi
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/?locale=es) or zrc1756@gmail.com  
 - ⚡ Fun fact: I'm also an artist.
 
-<br clear="both">
-<br>
-
 ---
 
 ### 🛠️ Tools and Programming Languages
