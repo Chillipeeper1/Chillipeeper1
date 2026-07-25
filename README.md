@@ -1,12 +1,13 @@
 ## Hello, world
-Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passionate about Machine Learning, software, and code.
 
 <img align="right" src="maga.svg" alt="Ilustración" width="350px">
+
+Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passionate about Machine Learning, software, and code.
+
 - 🔭 I’m currently working on: [TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml)  
 - 🌱 I’m currently learning: Machine Learning, MLOp's, ML engineering  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/?locale=es) or zrc1756@gmail.com  
-- ⚡ Fun fact: I'm also an artist. 
-
+- ⚡ Fun fact: I'm also an artist.
 ### 🛠️ Tools and Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
