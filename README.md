@@ -2,9 +2,9 @@
 Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passionate about Machine Learning, software, and code.
 
 <img align="right" src="maga.svg" alt="Ilustración" width="350px">
-- 🔭 I’m currently working on: [TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml)
-- 🌱 I’m currently learning: Machine Learning, MLOp's, ML engineering 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/?locale=es) or zrc1756@gmail.com
+- 🔭 I’m currently working on: [TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml)  
+- 🌱 I’m currently learning: Machine Learning, MLOp's, ML engineering  
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/?locale=es) or zrc1756@gmail.com  
 - ⚡ Fun fact: I'm also an artist. 
 
 ### 🛠️ Tools and Programming Languages
