@@ -1,4 +1,4 @@
-<img src="PAGINA8.png" alt="Descripción de mi imagen" width="550px">
+<img src="PAGINA8.png" alt="Descripción de mi imagen" width="700px">
 
 ## Hello, world! 🍓
 
