@@ -2,7 +2,7 @@
 
 ## Hello, world! 🍓
 
-<img align="right" src="maga.svg" alt="Ilustración" width="350px">
+<img align="right" src="maga.svg" alt="Ilustración" width="300px">
 
 Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passionate about Machine Learning, software, and code.
 
