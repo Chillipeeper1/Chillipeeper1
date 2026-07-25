@@ -33,6 +33,12 @@ Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passi
 
 ### Open source projects:  
 - [TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml): ML-powered technical debt detector for Python codebases. Built for vibe-coders who ship fast and want to know what they're leaving behind. Predicts per-file risk using code complexity + git activity (VERY early stage)
+(There will be more in the future :p)
+
+### Other projects: 
+- TADU (Taxis de Uruapan): Full-stack web application for local transport management and dispatch, built with React and JavaScript.(On development)
+- [Calabozos & Compuertas (Dungeons & Gates)](https://calabozos-y-compuertas.onrender.com/): EdTech initiative combining illustrated reading materials.
+- [RITHMA](https://github.com/Chillipeeper1/Rithma-app): AI-powered music recommendation app that suggests Spotify tracks based on your emotions.
 
 <!--
 **Chillipeeper1/Chillipeeper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
