@@ -42,17 +42,22 @@ Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passi
 
 ---
 
-### 💼 Projects: 
+### 💼 Professional Projects: 
 
-- **TADU (Taxis de Uruapan):** Full-stack mobile application for local transport management and dispatch, built with React native and JavaScript. *(In development)*
+- **TADU (Taxis de Uruapan):** Full-stack mobile application for local transport management and dispatch, built with React Native and JavaScript. Currently partnering with 7 local taxi bases and over 50 confirmed vehicles for the upcoming beta launch. *(In development)*
+  
+- **Gestor de Congreso:** Faculty-commissioned web platform to manage event logistics and workshop registrations for upcoming engineering congresses. Designed and engineered the responsive landing page and student-facing portal from scratch using React and TypeScript, handling state management and seamless backend API integrations.
+  
+- **Sports Complex Admin Dashboard:** End-to-end administrative dashboard for personnel management at the Uruapan Municipal Sports Complex. Designed UI/UX workflows in Figma, built core backend and attendance-tracking logic with Java Spring Boot and PostgreSQL, and containerized the deployment environment with Docker.
+  
+### 🧔 Personal Projects.
 
 - **[Calabozos & Compuertas (Dungeons & Gates)](https://calabozos-y-compuertas.onrender.com/):** EdTech initiative combining illustrated reading materials.
 
 - **[RITHMA](https://github.com/Chillipeeper1/Rithma-app):** AI-powered music recommendation app that suggests Spotify tracks based on your emotions.
 
-- **[TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml):** ML-powered technical debt detector for Python codebases. Built for vibe-coders who ship fast and want to know what they're leaving behind. Predicts per-file risk using code complexity + git activity (VERY early stage).
+- **[TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml):** ML-powered technical debt detector for Python codebases.
   
-- **Sports Complex Admin Dashboard:** End-to-end administrative dashboard for personnel management at the Uruapan Municipal Sports Complex.
 
 <br>
 *(There will be more in the future :p)*
