@@ -51,6 +51,8 @@ Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student; passi
 - **[RITHMA](https://github.com/Chillipeeper1/Rithma-app):** AI-powered music recommendation app that suggests Spotify tracks based on your emotions.
 
 - **[TechDebt ML](https://github.com/Chillipeeper1/techdebt-ml):** ML-powered technical debt detector for Python codebases. Built for vibe-coders who ship fast and want to know what they're leaving behind. Predicts per-file risk using code complexity + git activity (VERY early stage).
+  
+- - **Sports Complex Admin Dashboard:** End-to-end administrative dashboard for personnel management at the Uruapan Municipal Sports Complex.
 
 <br>
 *(There will be more in the future :p)*
