@@ -8,7 +8,7 @@ Welcome to my island. I'm Zabdiel, a Computer Systems Engineering student and fu
 
 - 🔭 I’m currently working on: TADU: Full-stack mobile application for local transport management and dispatch
 - 🌱 I’m currently learning: Machine Learning, MLOp's, ML engineering  
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/?locale=es) or zrc1756@gmail.com  
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zabdiel-rios-cervantes-3b5aa5218/?locale=es) or zrioscervantes@gmail.com  
 - ⚡ Fun fact: I'm also an artist.
 
 ---
